@@ -1,0 +1,13 @@
+@import "./variables.scss";
+
+.header {
+  padding: $space-medium $space-small;
+  background-color: $orange;
+}
+
+.form {
+  padding: $space-small;
+  border-color: $medium-gray;
+  border-radius: 4px;
+  width: 30%;
+}
